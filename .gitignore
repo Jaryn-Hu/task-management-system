@@ -2,3 +2,23 @@ node_modules/
 .DS_Store
 *.log
 .env
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+unpackage/
+
+# HBuilder X project files
+.hbuilderx/
+
+# IDE/Editor folders
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
